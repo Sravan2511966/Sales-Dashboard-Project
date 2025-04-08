@@ -1,0 +1,113 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 800.38305001469348,
+            "y": 0
+          },
+          "nodeIndex": "Dim Customers",
+          "nodeLineageTag": "2340e955-6072-4730-9a2a-ee10c627b71b",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Dim Product",
+          "nodeLineageTag": "13f5d71c-e205-4f12-8ecb-472d41e2fb3d",
+          "size": {
+            "height": 191.98511077960018,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 208.42234897992296
+          },
+          "nodeIndex": "Dim Promotion",
+          "nodeLineageTag": "b358e792-7660-4e04-8dfd-a8702c8ab978",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 378.201561193185,
+            "y": 0
+          },
+          "nodeIndex": "Fact Table",
+          "nodeLineageTag": "9f53b6f2-0eee-4b2c-81b9-269c030cbf6e",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 578.38305001469348,
+            "y": 342.21117448996148
+          },
+          "nodeIndex": "Date Table 1",
+          "nodeLineageTag": "7b33fb97-24e2-4e81-9a29-c8795287458a",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 839.049691250045,
+            "y": 295.21117448996148
+          },
+          "nodeIndex": "Date Table 2",
+          "nodeLineageTag": "778e730c-b429-4e6e-b31f-e13f3640dcb0",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 275.71634774418567,
+            "y": 367.60558724498071
+          },
+          "nodeIndex": "Measure Table",
+          "nodeLineageTag": "8e5370a5-ecef-4f00-9fa4-0088ee6ca07c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
